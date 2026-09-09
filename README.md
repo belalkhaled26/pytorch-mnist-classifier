@@ -24,8 +24,3 @@ An end-to-end deep learning pipeline built with PyTorch to classify handwritten 
    ```bash
    git clone [https://github.com/belalkhaled26/pytorch-mnist-classifier.git](https://github.com/belalkhaled26/pytorch-mnist-classifier.git)
 2.Run task1p2.ipynb directly in Google Colab or locally via Jupyter Notebook.
-Step 3: Save Changes
-
-Scroll to the bottom of the page and click the green **Commit changes** button. 
-
-Once saved, your main repository landing page will display a full, well-documented project overview
